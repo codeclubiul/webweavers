@@ -1,6 +1,6 @@
 # Introduction
 **Web Weavers** is a frontend coding series organised by **Code Club** of **Integral University**, Lucknow.
-It has not started yet so wait for it. Below is few is few details.
+It has not started yet so wait for it. Below are few details.
 Please note the details below have not been finalised yet. Its in the process.
 
 **STATUS** : Going to be started soon
@@ -27,3 +27,5 @@ Please note the details below have not been finalised yet. Its in the process.
 
  - Although our main focus is learning. We will announce few of the top programmers who did it fast and in the best way possible.
 
+## Contribution
+- If you have any suggestions or ideas or anything to make this event better please send you suggestions. You can create an issue here in the repo or send me direct message.
