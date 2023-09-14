@@ -26,6 +26,7 @@ Please note the details below have not been finalised yet. Its in the process.
 ## Results
 
  - Although our main focus is learning. We will announce few of the top programmers who did it fast and in the best way possible.
+ - The top repositories will be shared with everyone so they can learn from it. 
 
 ## Contribution
 - If you have any suggestions or ideas or anything to make this event better please send you suggestions. You can create an issue here in the repo or send me direct message.
