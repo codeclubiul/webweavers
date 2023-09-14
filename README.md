@@ -11,8 +11,8 @@ Please note the details below have not been finalised yet. Its in the process.
 
 ## How to participate
 
- - One the notice for the competition is out you will be able to register.
- - A figma file will be shared with the registered students and a fix amount of days will be given to complete.
+ - Once the notice for the competition is out you will be able to register.
+ - A figma file will be shared with the registered students and a fix amount of days will be given to code the website.
  - You will create a github repository to push the code. And you will need to host the code on a any hosting platform.
  - You will need to submit both the links.
 
