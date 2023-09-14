@@ -6,7 +6,8 @@ Please note the details below have not been finalised yet. Its in the process.
 **STATUS** : Going to be started soon
 
 ## Eligibility
-Current Student of Integral University, Lucknow.
+- Current Student of Integral University, Lucknow.
+- Have the basic knowledge of HTML , CSS , JS and a frontend framework.
 
 ## How to participate
 
