@@ -1,9 +1,14 @@
+
 # Introduction
 **Web Weavers** is a frontend coding series organised by **Code Club** of **Integral University**, Lucknow.
 It has not started yet so wait for it. Below are few details.
 
 
-**STATUS** : Going to be started soon
+## Timeline
+-	The registration has to be completed before 21/09/23.
+-	The Figma file will be provided on 22/09/23.
+-	You have to complete the website within 3 days.
+-	Deadline to submit github repo url and the website will be 24/09/23.
 
 ## Eligibility
 - Current Student of Integral University, Lucknow.
