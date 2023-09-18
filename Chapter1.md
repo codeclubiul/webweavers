@@ -9,7 +9,7 @@
 
 ## Details
 
-As this is the first one in the series . This one will focus on the basics of frontend development and deployment. You can create the website using vanilla js but using a frontend framework should be preferred. The knowledge of cmd tools like `nodejs` , `npm` , `git` and `bun` (if you are on with the trends)  are required. If you don't know these things or hearing them for the first time don't worry .  Below are few resources where you can learn these.
+As this is the first one in the series . This one will focus on the basics of frontend development and deployment. You can create the website using vanilla js but using a frontend framework should be preferred. The knowledge of cmd tools like nodejs , npm , git and bun (if you are on with the trends)  are required. If you don't know these things or hearing them for the first time don't worry . Don't forget every expert  was once a beginner. Below are few resources where you can learn these.
 ## Submission
 
  - The website url and the github repository needs to be submitted . 
@@ -36,7 +36,6 @@ As this is the first one in the series . This one will focus on the basics of fr
 	Hosting the Website is important.
 	-	Netlify : https://youtu.be/i9qCmQ2EeUA
 
-		 
-
-
- 
+		
+- UI Specific resources:
+	- Image Carousels : [WebDevSimplified](https://youtu.be/9HcxHDS2w1s) , [WsCubeTech](https://youtu.be/Emrbhrhp6BU)
