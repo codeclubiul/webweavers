@@ -1,6 +1,7 @@
 
 # Introduction
-**Web Weavers** is a frontend coding series organised by **Code Club** of **Integral University**, Lucknow.
+**Web Weavers** is a frontend coding series organised by **Code Club** of **Integral University**, Lucknow. Below are the details about the event.
+The series will be organised in various rounds names as `Chapters` . To know more about each round you can visit their link.
 
 **Register Yourself at**: https://forms.gle/rJv3g4zGphQNvimB9
 
@@ -8,7 +9,7 @@
 - [Chapter 1 : The Basics](https://github.com/codeclubiul/webweavers/blob/main/Chapter1.md) [REGISTRATION]
 
 
-## Timeline
+## Timeline (Chapter 1)
 -	The registration has to be completed before 22/09/23.
 -	The Figma file will be provided on 22/09/23.
 -	You have to complete the website within 3 days.
