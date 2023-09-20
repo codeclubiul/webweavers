@@ -1,9 +1,11 @@
 
 # Introduction
 **Web Weavers** is a frontend coding series organised by **Code Club** of **Integral University**, Lucknow.
-It has not started yet so wait for it. Below are few details.
 
 **Register Yourself at**: https://forms.gle/rJv3g4zGphQNvimB9
+
+## Chapters
+- [Chapter 1 : The Basics](https://github.com/codeclubiul/webweavers/blob/main/Chapter1.md) [REGISTRATION]
 
 
 ## Timeline
