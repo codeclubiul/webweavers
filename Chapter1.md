@@ -1,22 +1,32 @@
 # Chapter - 1 : The basics
 
 Register Yourself at : https://forms.gle/rJv3g4zGphQNvimB9
+Submissions : https://forms.gle/vc52VqbQyb2CQjdd9
+Ask Your doubts : https://github.com/codeclubiul/webweavers/issues/2 
 
 ## Timeline
 
 - The registration has to be completed before 22/09/23.
 - The Figma file will be provided on 22/09/23.
 - You have to complete the website within 3 days.
-- Deadline to submit github repo url and the website will be 24/09/23.
+- Deadline to submit github repo url and the website will be **11 AM 25/09/23**.
 
-## Details
-
-As this is the first one in the series . This one will focus on the basics of frontend development and deployment. You can create the website using vanilla js but using a frontend framework should be preferred. The knowledge of cmd tools like nodejs , npm , git and bun (if you are on with the trends) are required. If you don't know these things or hearing them for the first time don't worry . Don't forget every expert was once a beginner. Below are few resources where you can learn these.
-
-## Submission
-
-- The website url and the github repository needs to be submitted .
-- Make sure the the website is live and repository is public at the time of submission.
+## Rules
+- You can use any framework you want.
+- Below are also given some resources to learn .
+- Bootstrap , Tailwind and all other kind of libraries are also allowed.
+- Make sure you have registered before starting.
+- If you can only do the website in static without adding any reactivity or state management. No Problem.
+- If you can add features like Image Carousels and Tab Bar etc. thats good.
+- If you can add animations thats much better.
+- The current UI is just for desktop screen no need to make is responsive.
+- If you are not able to create any part of the UI or component . Dont Worry . Just Skip it.
+- The website needs to be pushed to a public github repo (if you making a private one , Add majidabd@student.iul.ac.in as collaborator) .
+- The website need to be hosted on any platform any vercel or netlify
+- After you have both the website url and github repo url submit it to [Submission form](https://forms.gle/vc52VqbQyb2CQjdd9) .
+- The form is opened and editable till **11AM 25/09/2023**.
+- The evaluations will only be done after **11AM 25/09/2023** . So dont worry you can submit them as soon as you have both the links. 
+- If you have any questions or doubts ask them here [Q&A - Chapter 1](https://github.com/codeclubiul/webweavers/issues/2) 
 
 ## Resources
 
