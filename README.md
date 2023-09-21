@@ -2,12 +2,12 @@
 **Web Weavers** is a frontend coding series organised by **Code Club** of **Integral University**, Lucknow. Below are the details about the event.
 The series will be organised in various rounds names as `Chapters` . To know more about each round you can visit their link.
 
-**The Chapter 1 has started . [visit here](https://github.com/codeclubiul/webweavers/blob/main/Chapter1.md)** 
+**The Chapter 1 has started . [visit here](https://github.com/codeclubiul/webweavers/wiki/Chapter%E2%80%901)** 
 
 **Register Yourself at**: https://forms.gle/rJv3g4zGphQNvimB9
 
 ## Chapters
-- **[Chapter 1 : The Basics](https://github.com/codeclubiul/webweavers/blob/main/Chapter1.md)** (GOING ON)
+- **[Chapter 1 : The Basics](https://github.com/codeclubiul/webweavers/wiki/Chapter%E2%80%901)** (GOING ON)
 - **Chapter 2** (COMING SOON)
 
 
