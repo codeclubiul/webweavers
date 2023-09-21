@@ -3,6 +3,8 @@
 
 Welcome to the first round of our competition! Before you dive in, here are some essential details you need to know:
 
+Figma File : [Downlaod](https://github.com/codeclubiul/webweavers/releases/download/v1/Chapter1UI.fig)
+
 ## 📝 Registration & Submission
 
 - **Registeration Form:** [Registration Form](https://forms.gle/rJv3g4zGphQNvimB9)
