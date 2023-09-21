@@ -5,8 +5,8 @@ Welcome to the first chapter of our competition! Before you dive in, here are so
 
 ## 📝 Registration & Submission
 
-- **Register Here:** [Registration Form](https://forms.gle/rJv3g4zGphQNvimB9)
-- **Submit Your Work Here:** [Submission Form](https://forms.gle/vc52VqbQyb2CQjdd9)
+- **Registeration Form:** [Registration Form](https://forms.gle/rJv3g4zGphQNvimB9)
+- **Submition Form :** [Submission Form](https://forms.gle/vc52VqbQyb2CQjdd9)
 - **Ask Your Doubts:** [Q&A - Chapter 1](https://github.com/codeclubiul/webweavers/issues/2)
 
 ## 📅 Timeline
