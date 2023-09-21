@@ -1,7 +1,7 @@
 
 # 📘 Chapter - 1: The Basics
 
-Welcome to the first chapter of our competition! Before you dive in, here are some essential details you need to know:
+Welcome to the first round of our competition! Before you dive in, here are some essential details you need to know:
 
 ## 📝 Registration & Submission
 
