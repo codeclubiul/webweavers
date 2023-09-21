@@ -1,34 +1,39 @@
-# Chapter - 1 : The basics
 
-Register Yourself at : https://forms.gle/rJv3g4zGphQNvimB9
-Submissions : https://forms.gle/vc52VqbQyb2CQjdd9
-Ask Your doubts : https://github.com/codeclubiul/webweavers/issues/2 
+# 📘 Chapter - 1: The Basics
 
-## Timeline
+Welcome to the first chapter of our competition! Before you dive in, here are some essential details you need to know:
 
-- The registration has to be completed before 22/09/23.
-- The Figma file will be provided on 22/09/23.
-- You have to complete the website within 3 days.
-- Deadline to submit github repo url and the website will be **11 AM 25/09/23**.
+## 📝 Registration & Submission
 
-## Rules
-- You can use any framework you want.
-- Below are also given some resources to learn .
-- Bootstrap , Tailwind and all other kind of libraries are also allowed.
-- Make sure you have registered before starting.
-- If you can only do the website in static without adding any reactivity or state management. No Problem.
-- If you can add features like Image Carousels and Tab Bar etc. thats good.
-- If you can add animations thats much better.
-- The current UI is just for desktop screen no need to make is responsive.
-- If you are not able to create any part of the UI or component . Dont Worry . Just Skip it.
-- The website needs to be pushed to a public github repo (if you making a private one , Add majidabd@student.iul.ac.in as collaborator) .
-- The website need to be hosted on any platform any vercel or netlify
-- After you have both the website url and github repo url submit it to [Submission form](https://forms.gle/vc52VqbQyb2CQjdd9) .
-- The form is opened and editable till **11AM 25/09/2023**.
-- The evaluations will only be done after **11AM 25/09/2023** . So dont worry you can submit them as soon as you have both the links. 
-- If you have any questions or doubts ask them here [Q&A - Chapter 1](https://github.com/codeclubiul/webweavers/issues/2) 
+- **Register Here:** [Registration Form](https://forms.gle/rJv3g4zGphQNvimB9)
+- **Submit Your Work Here:** [Submission Form](https://forms.gle/vc52VqbQyb2CQjdd9)
+- **Ask Your Doubts:** [Q&A - Chapter 1](https://github.com/codeclubiul/webweavers/issues/2)
 
-## Resources
+## 📅 Timeline
+
+- 📌 **Registration Deadline:** 22/09/23
+- 📁 **Figma File Release:** 22/09/23
+- 🚀 **Submission Deadline:** 11 AM, 25/09/23
+
+## 📜 Rules
+
+1. **Framework Choice:** You're free to use any framework.
+2. **Resources:** Resources for learning are provided below.
+3. **Libraries:** Bootstrap, Tailwind, and other libraries are permitted.
+4. **Registration:** Ensure you're registered before starting.
+5. **UI Customization:** Feel free to modify texts, images, or links to personalize the UI.
+6. **Functionality:** If you can only create a static website without reactivity or state management, that's okay.
+7. **Features:** Adding features like Image Carousels, Tab Bars, etc., is a plus.
+8. **Animations:** If you can incorporate animations, that's even better!
+9. **Responsiveness:** The provided UI is desktop-centric; no need for mobile responsiveness.
+10. **Incomplete UI:** If you can't create any UI component, don't stress. Just skip it.
+11. **GitHub:** Push your website to a public GitHub repo. If private, add `majidabd@student.iul.ac.in` as a collaborator.
+12. **Hosting:** Host your website on platforms like Vercel or Netlify or whatever you prefer.
+13. **Submission:** Ensure both your website URL and GitHub repo URL are submitted before the deadline.
+14. **Evaluation:** Evaluations commence after 11 AM, 25/09/2023. So you can Submit your links as soon as they're ready.
+15. **Queries:** For any questions or doubts, refer to the [Q&A - Chapter 1](https://github.com/codeclubiul/webweavers/issues/2).
+
+## 🛠 Resources
 
 - Github and Git
   Just learn the basic git commands `init` , `add` , `commit` , `remote add` , `push` and how to create a public repository on gihtub and how to push the code to github.
