@@ -14,7 +14,7 @@ The series will be organised in various rounds names as `Chapters` . To know mor
 ## Timeline (Chapter 1)
 - 📌 **Registration Deadline:** 22/09/23
 - 📁 **Figma File Release:** 22/09/23
-- 🚀 **Submission Deadline:** 11 AM, 25/09/23
+- 🚀 **Submission Deadline:** 11 AM, 28/09/23
 
 ## Eligibility
 - Current Student of Integral University, Lucknow.
